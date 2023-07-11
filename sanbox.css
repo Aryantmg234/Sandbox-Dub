@@ -1,0 +1,115 @@
+/* *{
+    margin:0;
+    padding:0;
+}
+
+section{
+    background:#223AE8;
+} */
+
+/* For body seciton close */
+
+/* ------------------------------------------------About Navbar------------------------------------------------------------------ */
+/* #navbar{
+    background-color:#3c3e44;
+    position:sticky;
+    
+}
+
+#sign1{
+    border-radius:40px;
+    padding-right:2rem;
+    padding-left:2rem;
+    background-image:linear-gradient(to bottom, rgb(223, 21, 223), rgb(181, 62, 250));
+    border:0;
+    outline:0;
+}
+
+/* For navbar hover effect */
+/* .bar:hover{
+    background:rgb(156, 156, 155);
+    border-radius:10px;
+} */ 
+
+/* --------------------------------Navbar------------------------------ */
+*{
+    margin:0;
+    padding:0;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color:#223AE8;
+}
+
+section{
+    background-color:#223AE8;
+    background-size:cover;
+}
+
+ nav{
+    background-color:black;
+
+ }
+
+.sign{
+    background-image:linear-gradient(to top, rgb(223, 21, 223), rgb(181, 62, 250));
+    border-radius:30px;
+    outline:none;
+    border:none;
+    padding-right:2rem;
+    padding-left:2rem;
+    color:white;
+    font-weight:bold;
+}
+
+/* For menu icon */
+.bi bi-list{
+    color:white;
+    font-weight:bold;
+}
+
+ul li a:hover{
+    background:rgb(156, 156, 155);
+    border-radius:10px;
+}
+
+button:hover{
+    background-image:linear-gradient(to left, purple , blue);
+}
+
+/* For mediaquery */
+ @media (min-width:576px){
+        .thesandbox{
+            
+        }
+ }
+/* media closed */
+
+
+/* --------------------------For head section-------------------------- */
+.mhead{
+    font-size:100px;
+    font-weight:800;
+    line-height:76%;
+}
+
+.mainp{
+    font-size:20px;
+    font-weight:bold;
+}
+
+.signup1{
+    background-image:linear-gradient(to top, rgb(223, 21, 223), rgb(181, 62, 250));
+    border-radius:25px;
+    outline:none;
+    border:none;
+    padding-right:4rem;
+    padding-left:4rem;
+    color:white;
+    font-size:20px;
+    font-weight: bold; 
+    
+}
+
+
